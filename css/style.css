@@ -1,0 +1,39 @@
+.box {
+	border: 1px red dotted;
+}
+
+body{ 
+font-family: "Verdana", sans-serif;
+}
+
+/*RESET*/
+body, ul, h1, h2, h3, h4, h5, h6,p {
+	margin: 0px;
+	padding: 0px;
+}
+
+ul{
+	list-style:none;
+}
+a {
+	text-decoration: none;
+}
+
+
+/*END RESET*/
+
+.main-nav {
+	border-bottom: 1px #e1e1e1 solid;
+	padding: 8px 0px;
+}
+
+nav a {
+	color: #787c8e;
+}
+.container {
+	width: 800px
+}
+
+.container-fluid{
+	width: 100%;
+}
